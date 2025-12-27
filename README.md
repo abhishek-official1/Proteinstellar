@@ -43,8 +43,8 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/proteinstellar.git
-cd proteinstellar
+git clone https://github.com/abhishek-official1/Proteinstellar.git
+cd Proteinstellar
 
 # Install dependencies
 pip install -r requirements.txt
@@ -120,7 +120,7 @@ If you use Proteinstellar in your research, please cite:
 @software{proteinstellar2024,
   title={Proteinstellar: Computational Therapeutics through AlphaFold},
   year={2024},
-  url={https://github.com/YOUR_USERNAME/proteinstellar}
+  url={https://github.com/abhishek-official1/Proteinstellar}
 }
 
 @article{jumper2021alphafold,
@@ -194,9 +194,9 @@ We welcome contributions! Please see our guidelines:
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/YOUR_USERNAME/proteinstellar/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/YOUR_USERNAME/proteinstellar/discussions)
-- **Email**: your.email@example.com
+- **Issues**: [GitHub Issues](https://github.com/abhishek-official1/Proteinstellar/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/abhishek-official1/Proteinstellar/discussions)
+- **Email**: abhishekchavan761@gmail.com
 
 ## 📄 License
 

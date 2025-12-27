@@ -24,8 +24,8 @@ Feature requests are welcome! Please:
 
 1. **Fork the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/proteinstellar.git
-   cd proteinstellar
+   git clone https://github.com/abhishek-official1/Proteinstellar.git
+   cd Proteinstellar
    ```
 
 2. **Create a feature branch**

@@ -46,13 +46,13 @@ This directory contains the main Jupyter notebooks for protein structure predict
 ### On Google Colab (Recommended)
 
 1. **AlphaFold2.ipynb:**
-   - Open in Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/proteinstellar/blob/main/notebooks/AlphaFold2.ipynb)
+   - Open in Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abhishek-official1/Proteinstellar/blob/main/notebooks/AlphaFold2.ipynb)
    - Paste your sequence
    - Run all cells
    - Download results
 
 2. **Proteinstellar_.ipynb:**
-   - Open in Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/proteinstellar/blob/main/notebooks/Proteinstellar_.ipynb)
+   - Open in Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abhishek-official1/Proteinstellar/blob/main/notebooks/Proteinstellar_.ipynb)
    - Upload PDB file
    - Run all cells
    - Review analysis
@@ -114,4 +114,4 @@ graph LR
 
 - [Documentation](../docs/getting_started.md)
 - [Examples](../docs/examples.md)
-- [Issues](https://github.com/YOUR_USERNAME/proteinstellar/issues)
+- [Issues](https://github.com/abhishek-official1/Proteinstellar/issues)
